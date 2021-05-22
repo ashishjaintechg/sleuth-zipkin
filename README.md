@@ -6,6 +6,8 @@ http://localhost:8080/couponapi/coupons/50
 
 
 curl -sSL https://zipkin.io/quickstart.sh | bash -s
+
+
 java -jar zipkin.jar
  
 If zipkin has been insalled :
